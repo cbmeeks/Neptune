@@ -55,6 +55,7 @@
 			this.toolStripSeparator5 = new System.Windows.Forms.ToolStripSeparator();
 			this.aboutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.MainStatusStrip = new System.Windows.Forms.StatusStrip();
+			this.MainToolStrip = new System.Windows.Forms.ToolStrip();
 			this.MainMenu.SuspendLayout();
 			this.SuspendLayout();
 			// 
@@ -67,7 +68,7 @@
             this.helpToolStripMenuItem});
 			this.MainMenu.Location = new System.Drawing.Point(0, 0);
 			this.MainMenu.Name = "MainMenu";
-			this.MainMenu.Size = new System.Drawing.Size(764, 28);
+			this.MainMenu.Size = new System.Drawing.Size(1077, 28);
 			this.MainMenu.TabIndex = 1;
 			// 
 			// fileToolStripMenuItem
@@ -295,16 +296,24 @@
 			// 
 			// MainStatusStrip
 			// 
-			this.MainStatusStrip.Location = new System.Drawing.Point(0, 534);
+			this.MainStatusStrip.Location = new System.Drawing.Point(0, 592);
 			this.MainStatusStrip.Name = "MainStatusStrip";
-			this.MainStatusStrip.Size = new System.Drawing.Size(764, 22);
+			this.MainStatusStrip.Size = new System.Drawing.Size(1077, 22);
 			this.MainStatusStrip.TabIndex = 2;
+			// 
+			// MainToolStrip
+			// 
+			this.MainToolStrip.Location = new System.Drawing.Point(0, 28);
+			this.MainToolStrip.Name = "MainToolStrip";
+			this.MainToolStrip.Size = new System.Drawing.Size(1077, 25);
+			this.MainToolStrip.TabIndex = 4;
 			// 
 			// MainForm
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(764, 556);
+			this.ClientSize = new System.Drawing.Size(1077, 614);
+			this.Controls.Add(this.MainToolStrip);
 			this.Controls.Add(this.MainStatusStrip);
 			this.Controls.Add(this.MainMenu);
 			this.IsMdiContainer = true;
@@ -353,6 +362,7 @@
 		private System.Windows.Forms.ToolStripSeparator toolStripSeparator5;
 		private System.Windows.Forms.ToolStripMenuItem aboutToolStripMenuItem;
 		private System.Windows.Forms.StatusStrip MainStatusStrip;
+		private System.Windows.Forms.ToolStrip MainToolStrip;
 	}
 }
 
