@@ -13,5 +13,13 @@ namespace Neptune {
 		public MainForm() {
 			InitializeComponent();
 		}
+
+		#region -- Events --
+
+		private void exitToolStripMenuItem_Click(object sender, EventArgs e) {
+			Application.Exit();
+		}
+
+		#endregion
 	}
 }
