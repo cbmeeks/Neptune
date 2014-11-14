@@ -1,9 +1,0 @@
-C:\Users\Cecil.Meeks\Dropbox\Projects\signaldev\Neptune\Neptune\Neptune\bin\Debug\Neptune.exe.config
-C:\Users\Cecil.Meeks\Dropbox\Projects\signaldev\Neptune\Neptune\Neptune\bin\Debug\Neptune.exe
-C:\Users\Cecil.Meeks\Dropbox\Projects\signaldev\Neptune\Neptune\Neptune\bin\Debug\Neptune.pdb
-C:\Users\Cecil.Meeks\Dropbox\Projects\signaldev\Neptune\Neptune\Neptune\obj\Debug\Neptune.csprojResolveAssemblyReference.cache
-C:\Users\Cecil.Meeks\Dropbox\Projects\signaldev\Neptune\Neptune\Neptune\obj\Debug\Neptune.MainForm.resources
-C:\Users\Cecil.Meeks\Dropbox\Projects\signaldev\Neptune\Neptune\Neptune\obj\Debug\Neptune.Properties.Resources.resources
-C:\Users\Cecil.Meeks\Dropbox\Projects\signaldev\Neptune\Neptune\Neptune\obj\Debug\Neptune.csproj.GenerateResource.Cache
-C:\Users\Cecil.Meeks\Dropbox\Projects\signaldev\Neptune\Neptune\Neptune\obj\Debug\Neptune.exe
-C:\Users\Cecil.Meeks\Dropbox\Projects\signaldev\Neptune\Neptune\Neptune\obj\Debug\Neptune.pdb
